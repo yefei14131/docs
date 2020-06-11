@@ -5,7 +5,7 @@
  * Date: 2020/6/9
  * Time: 6:23 PM
  */
-$dir = '/Users/yefei/Desktop/JVM/狸猫技术窝/';
+$dir = './data/';
 
 $act = $_REQUEST['act'];
 
